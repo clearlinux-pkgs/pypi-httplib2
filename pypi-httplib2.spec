@@ -5,7 +5,7 @@
 #
 Name     : pypi-httplib2
 Version  : 0.22.0
-Release  : 95
+Release  : 96
 URL      : https://files.pythonhosted.org/packages/3d/ad/2371116b22d616c194aa25ec410c9c6c37f23599dcd590502b74db197584/httplib2-0.22.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/3d/ad/2371116b22d616c194aa25ec410c9c6c37f23599dcd590502b74db197584/httplib2-0.22.0.tar.gz
 Summary  : A comprehensive HTTP client library.
